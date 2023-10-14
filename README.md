@@ -1,2 +1,3 @@
-# Data Analytics 📊
-# contains - numpy operations ..will update more 
+# Hello there ! 🐱‍👓
+# This is Data Analytics folder 📊
+# It Contains - numpy operations ..will update more 
