@@ -1,3 +1,3 @@
-# Hello there ! 🐱‍👓
-# This is my Data Analytics Repo 📊
+
+# Data Analytics Repo 📊
 
